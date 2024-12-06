@@ -1,7 +1,7 @@
 export default function NotFound() {
   return (
     <main style={{ padding: "1rem" }}>
-      <p>There's nothing here!</p>
+      <p>Não encontrado!</p>
     </main>
   );
 }
